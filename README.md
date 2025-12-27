@@ -1,5 +1,7 @@
 # Employee Data Generator
 
+![Employee Data Generator Screenshot](assets/employee-app.png)
+
 A simple and beginner-friendly full-stack web application to generate, store, and manage employee records using Node.js, Express, EJS, and MongoDB.
 
 ---
@@ -25,4 +27,5 @@ A simple and beginner-friendly full-stack web application to generate, store, an
 ---
 
 ## 📁 Project Structure
+
 
